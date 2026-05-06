@@ -57,15 +57,6 @@ Each one has its own README with context, stack, and how to run it.
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jcamilodev-py&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcamilodev-py&layout=compact&theme=default&hide_border=true"/>
-</p>
-
----
-
 ## 💼 Open to work
 
 I'm actively looking for my first professional role as:
